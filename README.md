@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AtikoSpeed
 - 👀 I’m interested in computers
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on suicide
+- 💞️ I’m looking to collaborate on javascript
 - 📫 How to reach me: atakan@atakan.ninja
 - 😄 Pronouns: O
 - ⚡ Fun fact: Penguins have knees, they're just in a sitting position all the time
