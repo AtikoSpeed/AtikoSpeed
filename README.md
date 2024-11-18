@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [PetitChat](https://github.com/AtikoSpeed/PetitChat)
 
-- 🌱 I’m currently learning **Deno**
+- 🌱 I’m currently learning **NestJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AtikoSpeed/](https://github.com/AtikoSpeed/)
 
