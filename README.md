@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Atakan</h1>
 
-- 🔭 I’m currently working on [PetitChat](https://github.com/AtikoSpeed/PetitChat)
+- 🔭 I’m currently working on [6ixarchive](https://github.com/AtikoSpeed/6ix-new)
 
-- 🌱 I’m currently learning **NestJS**, **Sass**, **C#**, **Ruby**
+- 🌱 I’m currently learning **C#**, **Ruby**, **Astro**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AtikoSpeed/](https://github.com/AtikoSpeed/)
 
