@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Atakan</h1>
 
-- 🔭 I’m currently working on [6ixarchive](https://github.com/AtikoSpeed/6ix-new)
+- 🔭 I’m currently working on [6ixarchive](https://github.com/AtikoSpeed/6ix-next)
 
 - 🌱 I’m currently learning **C#**, **Ruby**, **Astro**
 
