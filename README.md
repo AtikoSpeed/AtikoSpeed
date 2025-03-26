@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Atakan</h1>
 
+- Full-Stack Web Developer with a background in Sound Engineering.<br/>
+- I build web apps with React, Astro, Next.js, and ExpressJS. My toolkit includes PostgreSQL, REST APIs, GraphQL, and Redis.<br/>
+- I can set up Linux and Windows servers from scratch, handle cloud deployments with tools like Docker and Coolify.<br/>
+- I can bring your projects to life with animations using Framer Motion or Three.js, along with custom CSS.
+
+<h2>Projects</h2>
+
 - 🔭 I’m currently working on [6ixarchive](https://github.com/AtikoSpeed/6ix-next)
 
 - 🌱 I’m currently learning **C#**, **Ruby**, **Astro**
