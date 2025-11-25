@@ -1,23 +1,19 @@
 <h1 align="center">Hi 👋, I'm Atakan</h1>
 
-- Full-Stack Web Developer with a background in Sound Engineering.<br/>
-- I build web apps with React, Astro, Next.js, and ExpressJS. My toolkit includes PostgreSQL, REST APIs, GraphQL, and Redis.<br/>
-- I can set up Linux and Windows servers from scratch, handle cloud deployments with tools like Docker and Coolify.<br/>
+- Full-Stack Web Developer with a background in Sound Engineering.
+- I build web apps with React, Phoenix, Next.js, and Express, backed by PostgreSQL, Redis, and GraphQL APIs.
+- I set up and manage Linux and Windows servers from scratch, containerize with Docker, and handle cloud deployments with tools like Coolify and nginx.
 - I can bring your projects to life with animations using Framer Motion or Three.js, along with custom CSS.
 
 <h2>Projects</h2>
 
-- 🔭 I’m currently working on [6ixarchive](https://github.com/AtikoSpeed/6ix-next)
-
-- 🌱 I’m currently learning **C#**, **Ruby**, **Astro**
-
-- 👨‍💻 All of my projects are available at [https://github.com/AtikoSpeed/](https://github.com/AtikoSpeed/)
-
-- 📫 How to reach me **atakan@atakan.ninja**
+- 🔭 I'm currently building small projects with **Elixir** and **Phoenix**
+- 🌱 Diving deeper into **LiveView** and real-time features
+- 📫 How to reach me: **atakan@atakan.ninja**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/atakan-t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atakan-t-08426a226" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/atakan-t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atakan-t" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
