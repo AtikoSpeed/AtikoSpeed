@@ -6,6 +6,7 @@
 - I can bring your projects to life with animations using Framer Motion or Three.js, along with custom CSS.
 
 <h2>Projects</h2>
+
 - 🔭 I'm currently working on [phoenix_shop](https://github.com/AtikoSpeed/phoenix_shop)
 - 🌱 Diving deeper into **LiveView** and real-time features
 - 📫 How to reach me: **atakan@atakan.ninja**
